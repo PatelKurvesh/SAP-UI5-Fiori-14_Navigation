@@ -7,7 +7,7 @@
 					<Button icon="sap-icon://action" press="onNext"></Button>
 				</headerContent>
 				<content>
-					<List items="{/fruits}">
+					<List items="{/fruits}" itemPress="onItemPress">
 						<ObjectListItem
 						type="Navigation"
 						title="{name}"
