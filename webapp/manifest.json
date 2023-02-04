@@ -39,7 +39,7 @@
 
 	"sap.ui5": {
 		"rootView": {
-			"viewName": "GithubSAP-UI5-Fiori-14_Navigation.view.View1",
+			"viewName": "GithubSAP-UI5-Fiori-14_Navigation.view.App",
 			"type": "XML"
 		},
 		"dependencies": {
