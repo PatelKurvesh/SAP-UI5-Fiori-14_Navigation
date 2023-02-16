@@ -17,7 +17,7 @@ sap.ui.define([
 				var oView1 = new sap.ui.view({
 					id : "idView1",
 					viewName : "GithubSAP-UI5-Fiori-14_Navigation.view.View1",
-					type : "XML"
+					type : "XML"    //You have two option for type [1) XML / 2) sap.ui.core.mvc.ViewType.XML ]
 				});    
 				
 				var oView2 = new sap.ui.view({
